@@ -78,6 +78,7 @@ module.exports = {
             "keymaps/behaviors/key-repeat",
             "keymaps/behaviors/sensor-rotate",
             "keymaps/behaviors/mouse-emulation",
+            "behaviors/tri-state",
             "keymaps/behaviors/reset",
             "keymaps/behaviors/bluetooth",
             "keymaps/behaviors/outputs",
